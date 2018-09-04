@@ -6,5 +6,5 @@ export default function() {
     { title: 'React' },
     { title: 'Vue' },
     { title: 'Angular' },
-  ]
+  ];
 }
